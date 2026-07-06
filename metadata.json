@@ -1,0 +1,6 @@
+{
+  "name": "SwiftData AI - Decision Accelerator",
+  "description": "An interactive AI-powered decision acceleration platform that triages, visualizes, and optimizes raw data into rapid executive action plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
